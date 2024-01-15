@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently Studying at **Faculty of Computers and Information - Kafr El-Sheikh University‎**
 
-- 🌱 I’m currently Participating in **ALX software engineer Programme**
-
 - 📫 How to reach me **omarmohammedelsaadany@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
