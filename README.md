@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Elsaadany</h1>
-<h3 align="center">Computer Science student From Egypt</h3>
+<h3 align="center">Software Engineer and Mobile Developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugmaker69&label=Profile%20views&color=0084ff&style=plastic" alt="bugmaker69" /> </p>
 
