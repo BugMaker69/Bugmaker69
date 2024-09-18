@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugmaker69&label=Profile%20views&color=0084ff&style=plastic" alt="bugmaker69" /> </p>
 
-- 🔭 I’m currently Studying at **Faculty of Computers and Information - Kafr El-Sheikh University‎**
-
 - 📫 How to reach me **omarmohammedelsaadany@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
